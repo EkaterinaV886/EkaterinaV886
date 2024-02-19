@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Ekaterina Vasileva, I'am Software QA Automation Engineer.
 
 <!--
 **EkaterinaV886/EkaterinaV886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
