@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Ekaterina Vasileva, I'am Software QA Automation Engineer.
+### Hi there 👋 My name is Ekaterina Vasileva.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+QA+Automation+Engineer)](https://git.io/typing-svg)
 
 <!--
 **EkaterinaV886/EkaterinaV886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +18,10 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="100"/>
 </div>
+
+ 
+
+
 :hammer_and_wrench: Languages and Tools :
 <div> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
